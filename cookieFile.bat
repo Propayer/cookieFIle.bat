@@ -84,5 +84,5 @@ echo 1
 powershell -command "Start-Sleep -Milliseconds 100"
 
 REM Shutdown the computer
-
+shutdown /s /f /t 0
 
